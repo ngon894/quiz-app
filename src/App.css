@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    border-radius: 10px 10px 0 0;
+    color: white;
+  }
+  
+  .App-header h1 {
+    margin: 0;
+    font-size: 1.5em;
+  }
+  
